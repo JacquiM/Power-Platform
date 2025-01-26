@@ -175,5 +175,3 @@ Watch here: [https://youtu.be/3xPFD1OhPMA](https://youtu.be/UKTyMM2ebcQ)
 - [Restoring Previous App Versions](https://youtu.be/UKTyMM2ebcQ)
 
 ---
-
-This Markdown file can be further customized or formatted to your needs. Let me know if you'd like any specific adjustments!
