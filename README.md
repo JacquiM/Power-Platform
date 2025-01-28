@@ -6,6 +6,10 @@ Welcome to the **Power Platform** repository! Here, you'll find resources and gu
 ## 📂 Contents  
 Explore the following topics to deepen your understanding:
 
+- [Introduction to Data Visualization with Power BI](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualization%20with%20Power%20BI.md)
+
+- [Introduction to Agents](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Agents.md)  
+
 - [🔧 Advanced Power Platform Features](https://github.com/JacquiM/Power-Platform/blob/main/Advanced%20Power%20Platform%20Features.md)  
   Learn about extending Power Platform with custom connectors, integrating external APIs, leveraging Azure services, and advanced analytics.
 
