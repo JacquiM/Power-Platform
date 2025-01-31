@@ -22,7 +22,7 @@ Dive into the principles of low-code data integration, learn about data modeling
 
 ---
 
-### 📊 [Introduction to Data Visualizaiton](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualization.md)  
+### 📊 [Introduction to Data Visualizaiton](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualizations.md)  
 
 ---
 
