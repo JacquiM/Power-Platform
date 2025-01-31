@@ -14,7 +14,10 @@ Dive into the principles of low-code data integration, learn about data modeling
 
 ---
 
-### 📊 [Introduction to Data Visualization with Power BI](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualization%20with%20Power%20BI.md)  
+### 📊 [Introduction to Data Visualizaiton](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualization.md)  
+
+
+### 📊 [Introduction to Power BI](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Power%20BI.md)  
 Master the art of turning raw data into actionable insights with Power BI. This guide covers dashboards, visualizations, and best practices for effective reporting.
 
 ---
