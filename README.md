@@ -8,6 +8,9 @@ Welcome to the **Power Platform** repository! This space is your go-to resource 
 ## 📂 Contents  
 
 Explore the key topics below to unlock the full potential of Power Platform:
+### 📖 [Introduction to Process Automation](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Process%20Automation.md)  
+
+---
 
 ### 📖 [Introduction to Testing & Debugging](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Testing%20&%20Debugging.md)  
 
