@@ -9,6 +9,15 @@ Welcome to the **Power Platform** repository! This space is your go-to resource 
 
 Explore the key topics below to unlock the full potential of Power Platform:
 
+
+### 📖 [Introduction to Power Apps](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Power%20Apps.md)  
+
+---
+
+### 📖 [Introduction to Canvas Apps](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Canvas%20Apps.md)  
+
+---
+
 ### 📖 [Introduction to Dataverse](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Dataverse.md)  
 
 ---
