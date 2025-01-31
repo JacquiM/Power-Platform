@@ -9,12 +9,22 @@ Welcome to the **Power Platform** repository! This space is your go-to resource 
 
 Explore the key topics below to unlock the full potential of Power Platform:
 
+### 📖 [Introduction to Dataverse](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Dataverse.md)  
+
+---
+
+### 📖 [Introduction to Model-Driven Development](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Model-Driven%20Development.md)  
+
+---
+
 ### 📖 [Introduction to Low-Code Data Integration](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Low-Code%20Data%20Integration.md)  
 Dive into the principles of low-code data integration, learn about data modeling, ETL processes, and connecting to diverse data sources.  
 
 ---
 
 ### 📊 [Introduction to Data Visualizaiton](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Data%20Visualization.md)  
+
+---
 
 
 ### 📊 [Introduction to Power BI](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Power%20BI.md)  
