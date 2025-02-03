@@ -184,20 +184,26 @@ Power Automate Desktop is part of Robotic Process Automation (RPA) in Microsoftâ
 - Automate **local report generation** and processing.
 
 ### **Steps to Create a Power Automate Desktop Flow**
+
 ![image](https://github.com/user-attachments/assets/ba510d55-e66d-49cd-b7df-0e727c94137f)
+
 1. Open **Power Automate Desktop** and create a new flow.
 2. Add actions using the drag-and-drop interface (e.g., `"Launch Excel"` or `"Click UI Element"`).
 3. Configure each action with parameters (e.g., file paths, input values).
 4. Test the flow using the **Debug Mode**.
 5. Deploy and execute the flow manually or via a trigger in **Power Automate Cloud**.
+
 ![image](https://github.com/user-attachments/assets/6329b7b4-b7d3-4274-a181-1c726c400350)
 
 ---
 
 # Introduction to Workflow Orchestration
 Workflow orchestration involves managing and coordinating multiple workflows to work together seamlessly. The aim is to ensure workflows interact effectively and that dependencies are adequately managed.
+
 ![image](https://github.com/user-attachments/assets/c9d05d92-1457-45a7-a24e-a20a24ebb47f)
+
 As seen in the slide above, each flow will have its own steps, but how the flows interact with one another is where the workflow orchestration plays its part.
+
 ![image](https://github.com/user-attachments/assets/ff16dd48-ae90-4eac-a25f-a56eec09cfcf)
 
 ### **Workflow Orchestration Phases**
