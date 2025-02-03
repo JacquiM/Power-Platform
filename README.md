@@ -12,11 +12,10 @@ Explore the key topics below to unlock the full potential of Power Platform.
 ---
 
 ## ⚡ Low-Code Documentation
+- [**Introduction to Process Definition Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Process%20Definition%20Documentation.md)
+
 - [**Introduction to Solution Design Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Solution%20Design%20Documentation.md)
-
  
-- [**Introduction to Process Definition Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Process%20Definition%20Documentation.md)  
-
 ## ⚡ Process Automation  
 - [**Introduction to Process Automation**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Process%20Automation.md)  
   *Learn the fundamentals of automating workflows, improving efficiency, and reducing manual work.*  
