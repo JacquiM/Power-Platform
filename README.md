@@ -31,10 +31,10 @@ Explore **low-code development, automation, data integration, AI, and business i
 ---
 
 ## 📖 Low-Code Documentation  
-- [**Process Definition Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/02 Introduction%20to%20Process%20Definition%20Documentation.md)  
+- [**Process Definition Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/02%20Introduction%20to%20Process%20Definition%20Documentation.md)  
   *Learn how to define, structure, and document business processes effectively.*  
 
-- [**Solution Design Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/03 Introduction%20to%20Solution%20Design%20Documentation.md)  
+- [**Solution Design Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/03%20Introduction%20to%20Solution%20Design%20Documentation.md)  
   *Understand best practices for designing scalable and maintainable Power Platform solutions.*  
 
 ---
