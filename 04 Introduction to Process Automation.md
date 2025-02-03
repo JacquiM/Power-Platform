@@ -166,6 +166,10 @@ Power Automate Cloud Flows are event-driven automated workflows that run in the 
 ---
 
 # Introduction to Power Automate Desktop
+Power Automate Desktop Flows (RPA) enable automation of desktop and web applications by mimicking human interactions with software. These flows run on a local machine, automating repetitive tasks across legacy applications, modern systems, and websites—without requiring API integrations.
+
+Power Automate Desktop is part of Robotic Process Automation (RPA) in Microsoft’s Power Platform, allowing users to record, edit, and execute workflows that interact with UI elements, files, databases, and more.
+
 ## **What are Power Automate Desktop Flows?**
 
 ### **Common Uses for Desktop Flows:**
