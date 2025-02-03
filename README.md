@@ -11,7 +11,7 @@ Explore **low-code development, automation, data integration, AI, and business i
 
 🔍 Navigate through the key topics below to maximize your Power Platform expertise.
 
-- **⚡ Low-Code Development**
+- **🛠️ Low-Code Development**
 - **⚡ Process Automation**
 - **📱 Power Apps**
 - **🗄️ Dataverse & Data Integration**
@@ -23,7 +23,7 @@ Explore **low-code development, automation, data integration, AI, and business i
 
 ---
 
-## ⚡ Low-Code Development
+## 🛠️ Low-Code Development
 - [**Introduction to Low-Code Development**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Low-Code%20Development.md)  
   *Understand the fundamentals of low-code development and how it accelerates solution-building.*  
 
