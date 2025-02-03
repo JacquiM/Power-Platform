@@ -192,6 +192,7 @@ This diagram provides a comprehensive view of the **Power Platform’s security 
 This diagram illustrates a three-tier network architecture that is commonly used to ensure scalability, reliability, and efficient data distribution. 
 
 ![image](https://github.com/user-attachments/assets/f419772a-6ada-4e47-99bd-d2f2b20f312a)
+
 At the top is the Core Layer, which is responsible for high-speed data routing and serves as the backbone of the network. This layer connects the entire system and provides high-performance capabilities to manage large amounts of data traffic.
 
 The Distribution Layer, positioned in the middle, acts as an intermediary between the core and access layers. Its primary role is to manage traffic between these layers, enforce security policies, and handle tasks like load balancing and traffic segmentation. This layer ensures that data is efficiently routed to the appropriate access points.
