@@ -11,6 +11,9 @@ Explore the key topics below to unlock the full potential of Power Platform.
 
 ---
 
+## ⚡ Low-Code Development
+- [**Introduction to Low-Code Development**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Low-Code%20Development.md)
+
 ## ⚡ Low-Code Documentation
 - [**Introduction to Process Definition Documentation**](https://github.com/JacquiM/Power-Platform/blob/main/Introduction%20to%20Process%20Definition%20Documentation.md)
 
