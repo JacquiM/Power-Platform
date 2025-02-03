@@ -139,6 +139,7 @@ Tools and techniques to track the performance of automated processes and ensure 
 ---
 
 # Introduction to Power Automate Cloud
+Power Automate Cloud Flows are event-driven automated workflows that run in the cloud, allowing users to connect different applications and services to automate business processes without writing extensive code. These flows operate on Microsoft’s Power Platform and integrate seamlessly with various Microsoft services (like SharePoint, Teams, Outlook, and Dataverse) as well as third-party applications via connectors.
 
 ### **What are Power Automate Cloud Flows?**
 
