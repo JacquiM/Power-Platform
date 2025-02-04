@@ -61,8 +61,8 @@ Power Platform encapsulates testing capability into the **Power Apps platform**,
 # Testing Automations
 Power Platform does not include extensive automated testing in the platform – as such, developers usually create these mechanisms themselves. Test cases are stored in **Excel** and are updated with input and output data while the workflow/automation is executed. Developers make use of their own **automated testing mechanisms** that they build into workflows so that the results do not need to be captured manually.
 
-![Automated Testing in Cloud Flows](https://img.youtube.com/vi/FVwFbcMX-z4/maxresdefault.jpg)](https://youtu.be/FVwFbcMX-z4)
-Watch here: [https://youtu.be/FVwFbcMX-z4](https://youtu.be/FVwFbcMX-z4)
+![Automated Testing in Cloud Flows](https://github.com/user-attachments/assets/92495722-af93-4cbc-8df2-cfb2815fee5f)
+**Watch here:** [https://youtu.be/FVwFbcMX-z4](https://youtu.be/FVwFbcMX-z4)
 
 ---
 
@@ -124,8 +124,8 @@ Debugging is the process of identifying, analyzing, and resolving errors or defe
 # Debugging Cloud Flows:
 Debugging Power Automate flows can be done in a few different ways. The most common is through testing, using Compose actions to display key values that assist in evaluating where things are going wrong.
 
-[![Debugging Cloud Flows](https://img.youtube.com/vi/3xPFD1OhPMA/maxresdefault.jpg)](https://youtu.be/3xPFD1OhPMA)
-Watch here: [https://youtu.be/3xPFD1OhPMA](https://youtu.be/q4wO7StvgUU)
+[![Debugging in Cloud Flows](https://github.com/user-attachments/assets/f908f6c5-a3d8-4dcd-b830-7590e22b4ab9)](https://youtu.be/3xPFD1OhPMA)
+**Watch here:** [https://youtu.be/3xPFD1OhPMA](https://youtu.be/3xPFD1OhPMA)
 
 Consider the following Issue: A cloud flow fails to update a SharePoint list.
 
