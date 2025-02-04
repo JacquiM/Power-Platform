@@ -118,6 +118,21 @@ Debugging is the process of identifying, analyzing, and resolving errors or defe
 4. Fix data mismatches or permissions causing the failure.
 5. Re-run the workflow to verify the fix.
 
+# Debugging Cloud Flows:
+Debugging Power Automate flows can be done in a few different ways. The most common is through testing, using Compose actions to display key values that assist in evaluating where things are going wrong.
+
+[![Debugging Cloud Flows](https://img.youtube.com/vi/3xPFD1OhPMA/maxresdefault.jpg)](https://youtu.be/3xPFD1OhPMA)
+Watch here: [https://youtu.be/3xPFD1OhPMA](https://youtu.be/q4wO7StvgUU)
+
+Consider the following Issue: A cloud flow fails to update a SharePoint list.
+
+Steps to Debug:
+- Check if the trigger (e.g., new file upload) is firing correctly.
+- Review run history logs to identify the step where the error occurs.
+- Test the action updating the SharePoint list with sample data.
+- Fix mismatches or errors causing the failure.
+- Re-run the workflow to verify the fix.
+
 ---
 
 # Introduction to Exception Handling in Workflows
