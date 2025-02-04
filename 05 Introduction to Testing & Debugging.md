@@ -61,6 +61,9 @@ Power Platform encapsulates testing capability into the **Power Apps platform**,
 # Testing Automations
 Power Platform does not include extensive automated testing in the platform – as such, developers usually create these mechanisms themselves. Test cases are stored in **Excel** and are updated with input and output data while the workflow/automation is executed. Developers make use of their own **automated testing mechanisms** that they build into workflows so that the results do not need to be captured manually.
 
+[![Automated Testing in Cloud Flows](https://img.youtube.com/vi/FVwFbcMX-z4/maxresdefault.jpg)](https://youtu.be/FVwFbcMX-z4)
+Watch here: [https://youtu.be/FVwFbcMX-z4](https://youtu.be/FVwFbcMX-z4)
+
 ---
 
 # Introduction to Debugging
@@ -235,4 +238,4 @@ These techniques enhance workflow resilience and simplify troubleshooting.
 ---
 
 ### **Additional Reading:**  
-**Advanced Error and Exception Handling in Power Automate Desktop**
+**Advanced Error and Exception Handling in Power Automate Desktop: https://www.youtube.com/watch?v=zgBBijpZbPc&ab_channel=AndersJensen**
